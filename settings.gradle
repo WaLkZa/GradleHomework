@@ -1,0 +1,3 @@
+rootProject.name = 'StudentManagementDomain'
+include 'StudentManagementCLI'
+
